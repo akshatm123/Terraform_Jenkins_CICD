@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucket1" {
-	bucket = "aksmit22091993-s3bucket-date"
+	bucket = "aksmit22091993-new-s3bucket-date"
 }
 
 resource "aws_s3_bucket" "bucket2" {
